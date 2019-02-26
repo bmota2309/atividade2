@@ -5,12 +5,14 @@ body {
     background: #fff;
     color: #000;
     }
-    h2{
-        margin: 4%;
-        margin-bottom: 0;
-        text-align: center;
-        font-family:sans-serif;
-        font-size:22px;
+    h1{
+    font-color:#000;
+    font-size:28px;
+    font-family: 'Noto Sans', sans-serif;
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 4%;
+    background: #fff;
     }
     h3{
         margin: 20%; 
@@ -20,9 +22,12 @@ body {
     p{
         margin: 0;
         text-align: center;
+        font-family: 'Open Sans Condensed', sans-serif;
+        
     }
     #imgl{
          border-radius: 10px 0px 0px;
+         
     }
     #imgr{
          border-radius: 0px 10px 0px;
@@ -63,12 +68,3 @@ body {
                 transition:ease-in;
                              }
         
-    h1{
-    font-size: 28px;
-    font-family:"tahoma";
-    margin: 0;
-    background: #111;
-    }
-    p{
-        
-    }
